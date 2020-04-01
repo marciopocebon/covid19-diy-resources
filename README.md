@@ -36,13 +36,15 @@ This is an ongoing compilation of resources we have found helpful for protecting
   * [Assembly Video](https://www.youtube.com/watch?v=Rc_4Vu1-SrY&feature=youtu.be)
   * [Ventilator Splitter](http://ventsplitter.org/)
   * [Emergency Ventilator Manifold(https://scholarworks.boisestate.edu/lib_maker/4/?fbclid=IwAR0XMkG-78Wf0kMVlBGvF3lliSiFlnaP6ZvD3DsTNoYftKpLFg83GV8cBso)
+  * [Another DIY Mask](https://www.thingiverse.com/thing:4237783)
   
 #### Emergency Skills
   
   * [Save Multiple Lives with One Ventilator](https://www.youtube.com/watch?v=uClq978oohY&feature=youtu.be)
   * [Critical Care Tools](https://www.diymed.org/critical-care)
   * [Emergency Ventilator](https://e-vent.mit.edu/)
-
+  * [Unorthodox Respirator Disinfection](https://docs.google.com/document/d/1_5uL12mWD1y_6FXn3x67ldBO_UHYzVbV1MOqO2ska-A/edit?usp=sharing)
+  
   
 #### Disinfection
 
@@ -63,6 +65,8 @@ This is an ongoing compilation of resources we have found helpful for protecting
   * [DIY Sanitizer](https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf)
   * [Sewing Masks](https://www.joann.com/make-to-give-response/)
   * [More Sewing Masks](https://drive.google.com/file/d/100uwoZA9n8DAObuylXZ67wbtnp8QaVPN/edit)
+  * [Sewing Explainer Video](https://vimeo.com/399324367)
+  
   
 #### Ways to Help
   
