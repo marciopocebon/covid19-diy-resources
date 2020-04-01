@@ -35,7 +35,7 @@ This is an ongoing compilation of resources we have found helpful for protecting
   * [Reusable Mask File](https://www.thingiverse.com/thing:4235063?fbclid=IwAR3TcVb5SJUC2KaYLFKNxETmE-xQ-P5qbBKJ-FuGVR8NjnWGUwzbeEWS1TY)
   * [Assembly Video](https://www.youtube.com/watch?v=Rc_4Vu1-SrY&feature=youtu.be)
   * [Ventilator Splitter](http://ventsplitter.org/)
-  * [Emergency Ventilator Manifold(https://scholarworks.boisestate.edu/lib_maker/4/?fbclid=IwAR0XMkG-78Wf0kMVlBGvF3lliSiFlnaP6ZvD3DsTNoYftKpLFg83GV8cBso)
+  * [Emergency Ventilator Manifold](https://scholarworks.boisestate.edu/lib_maker/4/?fbclid=IwAR0XMkG-78Wf0kMVlBGvF3lliSiFlnaP6ZvD3DsTNoYftKpLFg83GV8cBso)
   * [Another DIY Mask](https://www.thingiverse.com/thing:4237783)
   
 #### Emergency Skills
