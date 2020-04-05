@@ -1,4 +1,5 @@
 # GoVanguard COVID-19 DIY Resources
+![](https://govanguard.com/wp-content/uploads/2020/04/COVID-Resources-Header-1-1030x402.jpg)
 
 This is an ongoing compilation of resources we have found helpful for protecting yourself and helping others during the COVID-19 pandemic. 
 
